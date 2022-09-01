@@ -1,5 +1,5 @@
 # RNN_Control_TCLab
-Recurrent Neural Network Control of a TCLab
+Recurrent Neural Network Control of a TCLab.
 
 This repository contains the code used in the paper Recurrent Neural Networks Based Control of a Temperature Control Laboratory (JJAA sep 2022, update when its published).
 
