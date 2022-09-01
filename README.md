@@ -7,6 +7,8 @@ The project encompasses two tasks. The generation and optimization of a non-line
 
 The references for the code in which this project is based are:
 
-Ref 1: https://apmonitor.com/do/index.php/Main/TCLabG
+Ref 1: https://apmonitor.com/do/index.php/Main/TCLabE
 
-Ref 2: https://towardsdatascience.com/emulating-a-pid-controller-with-long-short-term-memory-part-2-4a37d32e5b47
+Ref 2: https://apmonitor.com/do/index.php/Main/TCLabG
+
+Ref 3: https://towardsdatascience.com/emulating-a-pid-controller-with-long-short-term-memory-part-2-4a37d32e5b47
